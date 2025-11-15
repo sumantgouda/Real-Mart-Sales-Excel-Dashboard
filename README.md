@@ -5,7 +5,7 @@
 * To help stakeholders identify high-performing cities, product lines, and payment methods.
 
 # Dataset Used
-- <a href="https://github.com/sumantgouda/Real-Mart-Sales-Excel-Dashboard/blob/main/realmart_dataset.xlsx">Data Set</a>
+- <a href="https://github.com/sumantgouda/Real-Mart-Sales-Excel-Dashboard/blob/main/realmart_dataset.xlsx">DataSet</a>
 
 # Dashboard Features
 ## Key Performance Indicators (KPIs)
@@ -44,6 +44,5 @@ Data Analysis Skills
 # Conclusion
 The Real Mart Sales Dashboard helps businesses understand performance trends, customer behavior, and revenue drivers. This dashboard can be extended with advanced Excel automation or migrated to Power BI/Tableau for deeper analytics.
 
-Gross Income by Product Line
-
-Sales Distribution by Payment Method
+# Dashboard screenshot
+<a href="
